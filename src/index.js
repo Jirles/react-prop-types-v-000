@@ -24,7 +24,6 @@ Order.defaultProps = {
   size: 'regular'
 };
 
-
 Order.propTypes = {
   cone: PropTypes.bool,
   size: PropTypes.string,
